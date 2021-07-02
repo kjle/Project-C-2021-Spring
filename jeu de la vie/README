@@ -1,0 +1,9 @@
+/*****************************************/
+How to compile
+1 open in terminal
+2 "make"
+
+/*****************************************/
+IF MEET  PROBLEM which UI run slowly or lagly 
+1 open init.h
+2 edit sqarePixel to 16  it is require lower of computer;
